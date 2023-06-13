@@ -1,0 +1,6 @@
+@import "/02/base_photo.css";
+
+body {
+  background-size: cover;
+  background: url("/02/bg_bridge.jpg") center;
+}
